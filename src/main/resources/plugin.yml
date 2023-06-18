@@ -5,3 +5,11 @@ api-version: 1.19
 prefix: [ GlobaliaGDP ]
 authors: [ RetroEdge ]
 description: Plugin for automating GDP system of the Minecraft server Globalia
+commands:
+  gdp:
+    description: "Command for managing gdp payouts and settlements"
+    usage: "/gdp help"
+    permission: globaliagdp.gdp
+permissions:
+  globaliagdp.gdp:
+    description: "Base permission node.  See github repo for "
