@@ -25,4 +25,4 @@ Globalia is a factions server taking place on an Earth map.  The server features
 such as [Slimefun 4](https://github.com/Slimefun/Slimefun4) and [Dynmap](https://github.com/webbukkit/dynmap),
 and implements a custom GDP system allowing players to gain money and power by building infrastructure.
 
-You can join the server's discord [here,](https://discord.gg/myjkXFCvuM) 
+You can join the server's discord [here.](https://discord.gg/myjkXFCvuM) 
