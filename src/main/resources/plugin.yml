@@ -12,4 +12,4 @@ commands:
     permission: globaliagdp.gdp
 permissions:
   globaliagdp.gdp:
-    description: "Base permission node.  See github repo for "
+    description: "Base permission node.  See github repo for further permissions."
