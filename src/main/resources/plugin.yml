@@ -1,0 +1,7 @@
+name: GlobaliaGDP
+version: '${project.version}'
+main: me.retroedge.globaliagdp.GlobaliaGDP
+api-version: 1.19
+prefix: [ GlobaliaGDP ]
+authors: [ RetroEdge ]
+description: Plugin for automating GDP system of the Minecraft server Globalia
