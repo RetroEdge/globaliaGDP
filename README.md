@@ -4,6 +4,8 @@ provide a toolkit to staff and automate certain features of the Minecraft server
 ## Features
 The plugin uses one central command for all of its features, that being /gdp.  The 
 command usage is as follows:
+
+**/gdp settlement:**
 * /gdp settlement add \<name> \<faction> - Adds a hamlet at your current position.
 * /gdp settlement add \<name> \<faction> \<xyz> - Adds a hamlet at the specified position.
 * /gdp settlement upgrade \<name> - Upgrades a settlement to the next tier.  Ex: A hamlet will upgrade to a town
@@ -11,7 +13,7 @@ command usage is as follows:
 * /gdp settlement move \<name> - Moves a settlement to your current position.
 * /gdp settlement move \<name> \<xyz> - Moves a hamlet to the specified position.
 
-
+**/gdp eco:**
 * /gdp eco add \<amount> \<faction> - Adds the specified amount to the faction's weekly payout.
 * /gdp eco add \<port | monument> \<faction> - Adds the amount associated with the specified build to the faction's weekly payout.
 * /gdp eco add park \<n> \<m> \<faction> - Adds the amount associated with a N chunks by M chunks park to the faction's weekly payout.  See below for the formula.
